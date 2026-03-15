@@ -1,6 +1,6 @@
 # 读施莱尔马赫（Schleiermacher）《论翻译的方法》英译本思索
 
-施莱尔马赫这篇论文的英译本（*On the Different Methods of Translating*，Susan Bernofsky 译）篇幅较长，但总的核心要点只有两个。第一是提出一个真正的译者只能采取两种翻译方法，要么 **让读者靠近作者**（move the reader toward the writer，这里简称为 RTW），要么 **让作者靠近读者**（move the writer toward the reader，这里简称 WTR）。这两种方法只能择其一，一旦选择一种就必须在整个译文中贯彻，不能换为另一种，也没有第三条翻译法。第二是通过层层论证，最终得出译者必须采取 RTW 的译法，不能采取 WTR 的译法。这两种方法后在 1990 年代美国翻译理论家劳伦斯·韦努蒂的著作《译者的隐形》中包装为 **异化（foreignization）**和 **归化（domestication）**。
+施莱尔马赫这篇论文的英译本（*On the Different Methods of Translating*，Susan Bernofsky 译）篇幅较长，但总的核心要点只有两个。第一是提出一个真正的译者只能采取两种翻译方法，要么 **让读者靠近作者**（move the reader toward the writer，这里简称为 RTW），要么 **让作者靠近读者**（move the writer toward the reader，这里简称 WTR）。这两种方法只能择其一，一旦选择一种就必须在整个译文中贯彻，不能换为另一种，也没有第三条翻译法。第二是通过层层论证，最终得出译者必须采取 RTW 的译法，不能采取 WTR 的译法。这两种方法后在 1990 年代美国翻译理论家劳伦斯·韦努蒂的著作《译者的隐形》中包装为 <b>异化（foreignization）</b>和 **归化（domestication）**。
 
 该英译本包含 15 段，可分为如下几个部分：
 
